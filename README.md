@@ -13,7 +13,7 @@
   <p align="center">
     Nft Minting Website with PreSale/Whitelist &  Reveal functionality
     <br />
-      <img src="/premint.PNG" width="350" title="hover text">
+      <img src="Images/premint.PNG" width="350" title="hover text">
 
     
   </p>
