@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-  <img src="Images/premint.png" width="350" title="hover text">
+  <img src="./Images/premint.png" width="350" title="hover text">
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
