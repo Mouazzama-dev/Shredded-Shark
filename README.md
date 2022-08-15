@@ -15,11 +15,9 @@
     <br />
     <br />
    <h3 align="center">Single landing page</h3>
-      <br />
+     <br />
     <br />
-  
-      <img src="Images/landingPage.PNG" width="700" title="hover text">
-    
+    <img src="Images/landingPage.PNG" width="700" title="hover text">
     <br />
     <br />
   
