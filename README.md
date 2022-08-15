@@ -14,8 +14,18 @@
     Nft Minting Website with PreSale/Whitelist &  Reveal functionality
     <br />
     <br />
-      <img src="Images/landingPage.PNG" width="350" title="hover text">
+   <h3 align="center">Single landing page</h3>
+      <br />
+    <br />
+  
+      <img src="Images/landingPage.PNG" width="700" title="hover text">
+    
+    <br />
+    <br />
+  
+   <h3 align="center">Pre Mint Page</h3>
 
+<img src="Images/premint.PNG" width="700" title="hover text">
     
   </p>
 </div>
