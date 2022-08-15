@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x50759dC9c151BBA72887497dE053c9b1170d3A53",
+  "SCAN_LINK": "https://etherscan.io/address/0x50759dC9c151BBA72887497dE053c9b1170d3A53",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Shredded Sharks",
+  "SYMBOL": "Shark",
+  "MAX_SUPPLY": 8500,
+  "WEI_COST": 200000000000000000,
+  "DISPLAY_COST": 0.2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/shreddedsharksofficial",
+  "SHOW_BACKGROUND": true
+}
