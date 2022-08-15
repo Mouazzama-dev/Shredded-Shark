@@ -70,7 +70,7 @@
 
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,5 +175,3 @@ Project Link: [https://github.com/github_Mouazzama-dev/Shredded-Shark](https://g
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
